@@ -9,3 +9,5 @@
 **Lab 2**: Neural Machine Translation using many different approaches, varying Encoder-Decoder architecture (LSTM, GRU, Attention, Transformer, BERT, etc.)
 
 **Lab 2 extra**: Self-critical Sequence Training to improve one of lab2 models
+
+**Optional extra lab**: Image captioning using CNN + LSTM architecture, trained on MSCOCO dataset
